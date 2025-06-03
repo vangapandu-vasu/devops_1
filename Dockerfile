@@ -12,7 +12,9 @@ RUN npm install
 #running the command
 
 ENTRYPOINT [ "node", "node.js" ]
-#it starts from node.js file
+#it starts from node.js file and later implementation to next stage
+
+
 
 
 
